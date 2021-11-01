@@ -1,74 +1,52 @@
-<br />
+### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Pratik Bhagat</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
-<br />
+<div align="left">
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/PratikBhagat)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-bhagat-69479aa3/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratsbhagat@gmail.com)
+  
+</div>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/PratikBhagat)
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=PratikBhagat&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/PratikBhagat/PratikBhagat?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
-  </a> 
-<br />
+### Glad to see you here! 🤩 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=PratikBhagat.PratikBhagat)
 
-### Glad to see you here! 🤩 &nbsp;
+- &nbsp;Graduate student at Savitribai Phule Pune University with a master’s degree in Electronic's and TeleCommunication, having a passion for the Software Development.
 
-<br />
-
-<table width="100%"> 
-  <tr>
-    <td> <h3> 👨🏻‍ &nbsp;Know About Me </h3>
-
-
-- &nbsp;Graduate student at Savitribai Phule Pune University with a master’s degree in Electronic's and TeleCommunication, having a passion for the Software Development. 
-
-- &nbsp;2+ years of experience working at various Organization on various languages and frameworks in a microservice. 
+- &nbsp;2+ years of experience working at various Organization on various languages and frameworks in a microservice.
 
 - &nbsp;Currently Co-op with Pandemic Life as a Software Engineer working with the Back-End team contributing towards the robust and error-less Software Product Development
 
+<img align="right" alt="GIF" src="https://github.com/PratikBhagat/PratikBhagat/blob/main/coding.gif?raw=true" width="408" height="318" />
 
-<table width="100%"> 
-  <tr>
-    <td> <h3> 👨🏻‍💻 &nbsp;Technical Skills </h3>
+**Technical Skills**
 
 - &nbsp; Programming Languages: Java, Go, Apache Storm.
 - &nbsp; Web Dev Tools : Spring MVC, Hibernate, JPA Repository.
-- &nbsp; Databases and Platforms: 
+- &nbsp; Databases and Platforms:
 MySQL, PostgreSQL,Cassandra, Apache Solr
 - &nbsp; Cloud Technologies: AWS, Apache Hadoop
 - &nbsp; SDLC Tools: Agile(Scrum),Iterative Waterfall, TDD, System Design Principles
 - &nbsp; Frameworks and Tools: Spring Boot, Microservices, REST APIs, Git, SVN, BitBucket, Jira.
 
-![Vim](https://img.shields.io/badge/-VIM-2B9348?style=for-the-badge&logo=vim)
-![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
-![GO](https://img.shields.io/badge/go%20-%231572B6.svg?&style=for-the-badge&logo=go&logoColor=white)
-![JAVA](https://img.shields.io/badge/java%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+</br>
 
-<br/>
-<br/>
+**Languages and Tools**
 
-<div align="center">
+<a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Go" width="40" height="40"/> </a>
+<a href="https://golang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="40" height="40"/> </a>
+<a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-bhagat-69479aa3/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratsbhagat@gmail.com
-)
-  
-</div>
+</br>
 
+**My GitHub Stats:**
 
-</td>
-  </tr>
-</table>
-<h3 align="center">  GitHub Stats</h3>
-<table width="100%"> 
-  <tr>
-    <td><img height="215em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PratikBhagat&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/></td>
-    <td><img height="215em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PratikBhagat&theme=vue&layout=compact&exclude_lang=r"/></td>
-  </tr>
-</table>
-<p align="center"> <img src="https://octodex.github.com/images/surftocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/inspectocat.jpg" height="160px" width="160px">  <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" height="160px" width="160px">  </p>
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikBhagat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikBhagat&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
-**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{PratikBhagat}/count.svg)
+</p>
