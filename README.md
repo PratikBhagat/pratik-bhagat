@@ -43,10 +43,11 @@ MySQL, PostgreSQL,Cassandra, Apache Solr
 
 </br>
 
-**My GitHub Stats:**
+<h4 align="left">My GitHub Stats:</h4>
+<table width="100%"> 
+  <tr>
+    <td><img height="215em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PratikBhagat&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/></td>
+    <td><img height="215em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PratikBhagat&theme=vue&layout=compact&exclude_lang=r"/></td>
+  </tr>
+</table>
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikBhagat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikBhagat&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-
-</p>
