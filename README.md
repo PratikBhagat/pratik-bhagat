@@ -11,7 +11,7 @@
 
 - &nbsp;Graduate student at Savitribai Phule Pune University with a master’s degree in Electronic's and TeleCommunication, having a passion for the Software Development.
 
-- &nbsp;2+ years of experience working at various Organization on various languages and frameworks in a microservice.
+- &nbsp; 3.5+ years(at the time of writing the doc.) of experience working at various Organization on various languages and frameworks in a microservice.
 
 - &nbsp;Currently Co-op with Pandemic Life as a Software Engineer working with the Back-End team contributing towards the robust and error-less Software Product Development
 
@@ -24,7 +24,7 @@
 - &nbsp; Databases and Platforms:
 MySQL, PostgreSQL,Cassandra, Apache Solr
 - &nbsp; Cloud Technologies: AWS, Apache Hadoop
-- &nbsp; SDLC Tools: Agile(Scrum),Iterative Waterfall, TDD, System Design Principles
+- &nbsp; SDLC Tools: Agile(Scrum), Iterative Waterfall, TDD, System Design Principles
 - &nbsp; Frameworks and Tools: Spring Boot, Microservices, REST APIs, Git, SVN, BitBucket, Jira.
 
 </br>
